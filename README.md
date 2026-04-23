@@ -48,7 +48,7 @@
 
 环球巴士直通二维码：
 
-![](https://github.com/Lanny1992/aiproject/blob/main/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![](https://github.com/Lanny1992/aiproject/blob/main/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB%E4%BA%8C%E7%BB%B4%E7%A0%811.png)
 
 
 如果你是手机端的用户，可以保存二维码或直接扫码前往官网，页面效果体验更佳。
